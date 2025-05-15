@@ -1,5 +1,18 @@
 # PHP Backend Project
 
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: B K PRIYANKA
+
+INTERN ID: CT04DK48
+
+DOMAIN: BACKEND DEVELOPMENT
+
+DURATION: 4 WEEKS
+
+MENTOR : NEELA SANTOSH
+
+
 This is a PHP backend project designed to provide robust and scalable server-side functionality for web applications. It includes features like routing, database interaction, authentication, and API support.
 
 ## Features
